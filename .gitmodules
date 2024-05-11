@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:sglee487/snclient.git
+[submodule "server"]
+	path = server
+	url = git@github.com:sglee487/snserver.git
