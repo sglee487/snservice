@@ -1,9 +1,12 @@
 [submodule "client"]
 	path = client
 	url = git@github.com:sglee487/snclient.git
+	branch = main
 [submodule "server"]
 	path = server
 	url = git@github.com:sglee487/snserver.git
+	branch = master
 [submodule "snkeycloak"]
 	path = snkeycloak
 	url = git@github.com:sglee487/snkeycloak.git
+	branch = main
