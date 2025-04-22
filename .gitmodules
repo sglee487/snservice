@@ -10,3 +10,6 @@
 	path = snkeycloak
 	url = git@github.com:sglee487/snkeycloak.git
 	branch = main
+[submodule "snservice-cloud-stack"]
+	path = snservice-cloud-stack
+	url = git@github.com:sglee487/snservice-cloud-stack.git
