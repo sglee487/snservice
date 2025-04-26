@@ -13,3 +13,4 @@
 [submodule "snservice-cloud-stack"]
 	path = snservice-cloud-stack
 	url = git@github.com:sglee487/snservice-cloud-stack.git
+	branch = main
